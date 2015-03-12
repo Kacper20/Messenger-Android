@@ -1,0 +1,23 @@
+[
+    {
+        "id": "3000",
+        "content": "A",
+        "send": 142110214,
+        "received": 1421102,
+        "sender": "konrad"
+    },
+    {
+        "id": "3001",
+        "content": "B",
+        "send": 142110249,
+        "received": 142110217,
+        "sender": "filip"
+    },
+    {
+        "id": "3002",
+        "content": "B",
+        "send": 121102141,
+        "received": 142110217,
+        "sender": "dariusz"
+    }
+]

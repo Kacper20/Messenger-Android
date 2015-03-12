@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Messenger</string>
+    <string name="title_activity_recent_chat">Messenger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_create_message">CreateMessageActivity</string>
+    <string name="title_activity_content_message">ContentMessageActivity</string>
+    <string name="message_recipient_label">RECIPIENT</string>
+    <string name="message_content_label">CONTENT</string>
+    <string name="recipient_hint_text">Enter recipient of the message</string>
+    <string name="message_content_hint_text">Enter message</string>
+    <string name="date_picker_title">Delivery date</string>
+    <string name="time_picker_title">Delivery time</string>
+
+    <string name="dialog_editDate">Date</string>
+    <string name="dialog_editTime">Time</string>
+    <string name="dialog_editDateOrTime">Do you want to edit the date or time?</string>
+    <string name="message_sender_content_label">SENDER</string>
+    <string name="message_receiver_content_label">RECEIVER</string>
+    <string name="message_string_content_label">CONTENT</string>
+
+</resources>
